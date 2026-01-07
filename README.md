@@ -1,4 +1,4 @@
-# CatchUp 📱
+# CatchUp
 
 **CatchUp** is a social iOS app designed to help friends stay connected through thoughtful daily prompts. Instead of endless scrolling, CatchUp encourages lightweight, intentional check-ins that turn into meaningful conversations over time.
 
@@ -6,7 +6,9 @@ Users answer short daily questions, view friends’ responses in a fast, vertica
 
 ---
 
-## ✨ Features
+
+
+## Features
 
 - **Daily Prompts** – Short, thoughtful questions that spark conversation
 - **Vertical Feed** – Fast, TikTok-style scrolling experience
