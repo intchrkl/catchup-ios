@@ -1,0 +1,77 @@
+# ======================
+# macOS
+# ======================
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# ======================
+# Xcode
+# ======================
+DerivedData/
+*.xcuserdata
+*.xcuserstate
+*.xcscmblueprint
+*.xccheckout
+*.xcodeproj/project.xcworkspace/xcuserdata/
+
+# Xcode build products
+build/
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# ======================
+# Swift Package Manager
+# ======================
+.build/
+Packages/
+Package.resolved
+
+# ======================
+# CocoaPods
+# ======================
+Pods/
+*.xcworkspace
+
+# ======================
+# Carthage
+# ======================
+Carthage/Build/
+
+# ======================
+# Firebase / Secrets
+# ======================
+GoogleService-Info.plist
+*.plist
+
+# (Allow important plists)
+!Info.plist
+
+# ======================
+# Environment files
+# ======================
+.env
+.env.*
+
+# ======================
+# Logs & temp files
+# ======================
+*.log
+*.tmp
+*.swp
+*.lock
+
+# ======================
+# Fastlane
+# ======================
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/
+fastlane/test_output/
+
+# ======================
+# Misc
+# ======================
+.idea/
+.vscode/

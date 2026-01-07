@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "3161BC52-FC0C-4F20-89FF-C1331333B658",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:Catchup.xcodeproj",
+        "identifier" : "69E82FCF2EC6C31F005D14D0",
+        "name" : "CatchupTests"
+      }
+    }
+  ],
+  "version" : 1
+}
