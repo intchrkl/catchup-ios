@@ -2,7 +2,7 @@
 
 **CatchUp** is a social iOS app designed to help friends stay connected through thoughtful daily prompts. Instead of endless scrolling, CatchUp encourages lightweight, intentional check-ins that turn into meaningful conversations over time.
 
-Users answer short daily questions, view friends’ responses in a fast, vertical feed, and engage through reactions and comments. Streaks and smart notifications promote consistency without pressure.
+Users answer short daily questions, view friends’ responses in a vertical feed, and engage through reactions and comments. Streaks and smart notifications add a gamification element.
 
 ---
 
@@ -21,7 +21,7 @@ Users answer short daily questions, view friends’ responses in a fast, vertica
 ## Tech Stack
 
 - **SwiftUI**
-- **Firebase** (Auth, Firestore)
+- **Firebase**
 - **iOS Push Notifications**
 - MVVM-style architecture
 
@@ -35,7 +35,7 @@ This project is actively under development. Features and architecture may evolve
 
 ## Setup Notes
 
-This repository does **not** include sensitive configuration files.
+This repository does **not** include config files.
 
 If you are running the app locally, you will need to provide your own:
 
