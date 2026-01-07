@@ -4,9 +4,22 @@
 
 Users answer short daily questions, view friends’ responses in a vertical feed, and engage through reactions and comments. Streaks and smart notifications add a gamification element.
 
+<p align="center">
+  <img src="screenshots/poster.png" width="700" />
+</p>
+
+
 ---
 
+## Screenshots
 
+<p float="left">
+  <img src="screenshots/screen1.png" width="250" />
+  <img src="screenshots/screen2.png" width="250" />
+  <img src="screenshots/screen3.png" width="250" />
+</p>
+
+---
 
 ## Features
 
